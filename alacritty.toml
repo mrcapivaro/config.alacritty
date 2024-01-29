@@ -1,6 +1,7 @@
 [window]
 decorations = "None"
-opacity = 0.85
+padding = { x = 5, y = 5 }
+# opacity = 0.85
 
 [font]
 normal = { family = "FantasqueSansM Nerd Font Mono", style = "Regular" }
@@ -12,7 +13,6 @@ size = 16
 [keyboard]
 bindings = [
   {key = "Space", mods = "Control", chars = "\u0000"},
-  {key = "Tab", action = NewTab},
 ]
 
 [colors.primary]
