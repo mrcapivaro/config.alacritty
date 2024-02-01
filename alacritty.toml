@@ -1,7 +1,7 @@
 [window]
 decorations = "None"
 padding = { x = 5, y = 5 }
-# opacity = 0.85
+opacity = 0.95
 
 [font]
 normal = { family = "FantasqueSansM Nerd Font Mono", style = "Regular" }
