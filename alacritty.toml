@@ -1,13 +1,15 @@
+shell = "C:\\Program Files\\PowerShell\\7\\pwsh.exe"
+
 [window]
 decorations = "None"
 padding = { x = 5, y = 5 }
-opacity = 0.95
+# opacity = 0.95
 
 [font]
-normal = { family = "FantasqueSansM Nerd Font Mono", style = "Regular" }
-bold = { family = "FantasqueSansM Nerd Font Mono", style = "Bold" }
-italic = { family = "FantasqueSansM Nerd Font Mono", style = "Italic" }
-bold_italic = { family = "FantasqueSansM Nerd Font Mono", style = "Bold Italic" }
+normal = { family = "FantasqueSansM Nerd Font", style = "Regular" }
+bold = { family = "FantasqueSansM Nerd Font", style = "Bold" }
+italic = { family = "FantasqueSansM Nerd Font", style = "Italic" }
+bold_italic = { family = "FantasqueSansM Nerd Font", style = "Bold Italic" }
 size = 16
 
 [keyboard]
